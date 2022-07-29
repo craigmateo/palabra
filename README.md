@@ -1,0 +1,2 @@
+# palabra
+website palabra.ca
