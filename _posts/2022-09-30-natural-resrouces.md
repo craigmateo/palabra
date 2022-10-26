@@ -2,7 +2,7 @@
 author: craig
 title: "Natural resources and communication: when the rhetorical tradition confronts the real economy"
 category: communication
-tags: linguistics, communication
+tags: linguistics communication
 ---
 
 <figure class="aligncenter">
