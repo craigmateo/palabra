@@ -4,7 +4,7 @@
     .lightbox-content { position: relative; display: grid; grid-template-columns: 1fr 8fr 1fr; gap: 40px; @include align-items(); justify-items: center; width: 100%; @include no-select(); }
     .prev-image, .next-image, .lightbox-close { cursor: pointer; opacity: .5; @include transition(opacity .1s ease); color: var(--grey-fa);
         &:hover { opacity: .9; }
-        svg { width: 32px; height: 32px; fill: currentColor; }
+        svg { width: 32px; height: 32px; fill: white; }
     }
     .prev-image svg { @include rotate(180deg); }
     .current-image {
