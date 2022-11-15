@@ -20,11 +20,11 @@ The importance of nonverbals is supported by research in cognitive sciences sugg
 
 Nonverbals often occur without our conscious awareness and, thus, are explicable in terms of the limbic system. Involuntary facial expressions, for instance, originate in the subcortical areas of the brain (Matsumoto & Hwang, 2013). There is also evidence that head movements encode emotional intent (Livingstone & Palmer, 2016).
 
-This paper introduces corpus based methods for nonverbal communication in three main sections. The first ‘Multimodal Corpora’ summarizes some existing corpus-based approaches and studies. ‘Interpretation’ discusses interpretation of nonverbals within discourse analysis. The ‘Example’ section outlines how nonverbal analysis was integrated into a domain specific discourse analysis of natural resource debates. This is a discussion paper and is not meant to be a comprehensive summary.
+This paper introduces corpus based methods for nonverbal communication in three main sections. The first ‘Multimodal Corpora’ summarizes some existing corpus-based approaches and studies. ‘Interpretation’ discusses interpretation of nonverbals within discourse analysis. The ‘Example’ section outlines how nonverbal analysis was integrated into a domain specific discourse analysis of natural resource debates. **This is a discussion paper and is not meant to be a comprehensive summary.**
 
 ## Multimodal corpora
 
-Multimodal approaches to discourse studies have emerged from the recognition that the lexical level of language is “just one among the many resources for making meaning” (Kress, 2011: 38). Multimodal corpora draw from the lexical level as well as aural, linguistic, spatial, and visual capacities or modes (Murray, 2013). Beyond texts, multimodal data is obtained from a range of media such as audio, video, and images. Foster & Oberlander's (2008) definition emphasizes audio-visual recording by defining a multimodal corpus as
+Multimodal approaches to discourse studies have emerged from the recognition that the lexical level of language is “just one among the many resources for making meaning” (Kress, 2011: 38). Multimodal corpora draw from the lexical as well as aural, linguistic, spatial, and visual capacities or modes (Murray, 2013). Beyond texts, multimodal data is obtained from a range of media such as audio, video, and images. Foster & Oberlander's (2008) definition emphasizes audio-visual recording by defining a multimodal corpus as:
 
 > an annotated collection of coordinated content on communication channels such as speech, gaze, hand gesture, and body language, [that] is generally based on recorded human behaviour (4).
 
@@ -32,7 +32,7 @@ In addition to the data itself (i.e., recorded human behaviour), annotation of t
 
 ### Existing Corpora
 
-As Knight indicates in a 2011 review article, many multimodal corpora have limited to specific, mono-lingual, specialist domains within a given discourse context. For instance, several corpora simulate meeting room environments often in controlled experimental conditions with specialized audio-visual equipment. These include:
+As Knight indicates in a 2011 review article, many multimodal corpora have been limited to specific, mono-lingual, specialist domains within a given discourse context. For instance, several corpora simulate meeting room environments often in controlled experimental conditions with specialized audio-visual equipment. These include:
 
 * MM4 Audio-Visual Corpus (McCowan et al., 2003)
 * NIST Meeting Room Phase II Corpus (Garofolo et al., 2004)
@@ -224,7 +224,7 @@ The table below summarizes some nonverbal elements (NVE) with associated meaning
 </tr>
 <tr>
 <td>Head tilt</td>
-<td>Sign of interest, curiosity, anduncertainty</td>
+<td>Sign of interest, curiosity, and uncertainty</td>
 <td>(H. Lewis, 2012)</td>
 </tr>
 <tr>
@@ -269,7 +269,7 @@ The table below summarizes some nonverbal elements (NVE) with associated meaning
 </tr>
 <tr>
 <td>High blink frequency and duration</td>
-<td>negative emotional statesincluding stress and fear</td>
+<td>negative emotional states including stress and fear</td>
 <td>(Haak et al., 2019) (Maffei &amp; Angrilli, 2019)</td>
 </tr>
 <tr>
@@ -340,7 +340,7 @@ The observed trends in facial expressions and gestures suggested that different 
 
 ## Moving Forward
 
-Nonverbal corpus methods have been used in empirical behavioural sciences as well as highly descriptive methods in pragmatics. Much recent research is driven by applications in human-computer interaction and artificial intelligence. What is perhaps lost in this focus is nonverbal analysis as humanistic inquiry. Interpretive, meaning-centred approaches can draw from the rich, embodied nature of human interaction to advance empathic understanding. Humanistic approaches with an 'eye' towards developments in AI and robotics could help drive dicussions on what is unique about human vs. machine cognition.  
+Nonverbal corpus methods have been used in empirical behavioural sciences as well as highly descriptive methods in pragmatics. Much recent research is driven by applications in human-computer interaction and artificial intelligence. What is perhaps lost in this focus is nonverbal analysis as humanistic inquiry. Interpretive, meaning-centred approaches can draw from the rich, embodied nature of human interaction to advance empathic understanding. Humanistic approaches with an 'eye' towards developments in AI and robotics could also help drive dicussions on what is unique about human vs. machine cognition.  
 
 ## References
 
