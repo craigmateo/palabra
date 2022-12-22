@@ -340,7 +340,7 @@ The observed trends in facial expressions and gestures suggested that different 
 
 ## Moving Forward
 
-Nonverbal corpus methods have been used in empirical behavioural sciences as well as highly descriptive methods in pragmatics. Much recent research is driven by applications in human-computer interaction and artificial intelligence. What is perhaps lost in this focus is nonverbal analysis as humanistic inquiry. Interpretive, meaning-centred approaches can draw from the rich, embodied nature of human interaction to advance empathic understanding. Humanistic approaches with an 'eye' towards developments in AI and robotics could also help drive dicussions on what is unique about human vs. machine cognition.  
+Nonverbal corpus methods have been used in empirical behavioural sciences as well as highly descriptive methods in pragmatics. Much recent research is driven by applications in human-computer interaction and artificial intelligence. What is perhaps lost in this focus is nonverbal analysis as humanistic inquiry. Interpretive, meaning-centred approaches can draw from the rich, embodied nature of human interaction to advance empathic understanding. Humanistic approaches with an 'eye' towards developments in AI and robotics could also help drive discussions on what is unique about human vs. machine cognition.  
 
 ## References
 

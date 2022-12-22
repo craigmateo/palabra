@@ -1,5 +1,5 @@
 <nav class="site-navigation" role="navigation">
-    <a href="{{'/' | absolute_url}}" {% if page.url == "/" %}class="active"{% endif %}>Blog</a>
+    <a href="{{'/' | absolute_url}}" {% if page.url == "/" %}class="active"{% endif %}>Updates</a>
     {% if site.pages %}
         {% assign pages = site.pages | sort: 'order' %}
         {% for p in pages | sort: 'title' %}
