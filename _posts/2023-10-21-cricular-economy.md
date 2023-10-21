@@ -1,0 +1,61 @@
+---
+author: craig
+title: "What if Simone Weil worked in tech?"
+category: tech-industry
+tags: philosophy tech
+---
+
+<figure class="aligncenter">
+	<img src="/assets/images/weil.png" width="800" height="300" alt="Imae from book cover The Need for Roots at penguinrandomhouse.com/" />
+</figure>
+
+Tech companies have marketed a progressive image of their organizations and brands. Recent events, such as mass layoffs and reports of toxic work cultures, have brought long-overdue discussions and critiques of this sector into the mainstream.
+
+We can hope that this pushback will lead to positive changes. However, it is difficult to find the language to describe what the modern tech industry even is. Terms like <a href="https://nymag.com/intelligencer/2022/10/what-is-technofeudalism.html" target="_blank">"technofeudalism"</a> help explain the big-picture role of tech monopolies in the global economy. Still, there is also a need to understand and express the day-to-day experiences of workers.
+
+As a tech worker, I've often asked myself, "What if Simone Weil worked in tech?"
+
+<!--more-->
+
+## Weil's Factory Journal
+
+Weil (1909-1943) was a philosopher, activist, and Christian thinker. In contrast to most intellectuals of the time (and today), Simone Weil has street credibility because in the 1930s, she left elite French academia to work in factories in order to experience the situation of workers.
+
+It began as an attempt to understand why workers did not revolt against their conditions. Romanticized ideas of "a hard but joyous contact with ‘real life’" were met with soul-crushing fatigue and humiliation that nearly broke her. The suffering was not just physical. What she describes in her journal is a death of thinking where workers are disconnected cogs, and "time was an intolerable burden."
+
+Weil viewed the situation of workers as not simply about wages. It is also about hierarchical relations and subservience; where people stand in relation to machines, managerial bureaucracies, and systems of production. In later writings, such as "The Need for Roots," she articulated craftsmanship, collaboration, and pride in the product of one's labor as alternatives to the subordinating, alienating nature of modern production systems.
+
+## Digital Production Lines
+
+Comparisons between modern tech workers and industrial labor should not be taken too far, particularly given conditions faced by previous generations or workers in much of the Global South today. That said, Weil's insights about the spiritual nature of work might help us understand why so many tech workers are unhappy, despite their many privileges.
+
+If Simone Weil were to work for a modern tech company, she might describe it as a "digital production line." She would point out that despite gimmicks like free snacks, oppressive hierarchies and subordination remain. The technology is often deliberately kept opaque, and most workers are given fragmented tasks without avenues for creativity or development. The majority of tech workers face insecurity, while compensation and equity valuations have ballooned for a select few.
+
+Weil might also point to unhealthy team dynamics and poor collaboration cultures. Based on a recent <a href="https://www.talentlms.com/research/toxic-culture-tech-industry-survey">study</a>, half of all tech workers want to leave their jobs due to toxic workplaces. In the study, workers point directly at leadership for creating psychologically unsafe environments.
+
+Finally, pride in the work and craftsmanship is difficult when so much of the industry is producing cultural products that seem more suited to dystopian science fiction than to society. There are plenty of real problems that the tech sector can and does address. Yet, labor and talent are directed towards platforms for self-promotion, illiteracy, and consumerism.
+
+## Digital Artisanship
+
+Ongoing debates about the political and economic power of Big Tech might lead to reforms such as breaking up monopolies. However, thinkers like Weil are a reminder that even grand system changes do not necessarily translate into workplaces that are fulfilling and liberating.
+
+Writing in the context of post-war reconstruction in France, Weil's vision for a society that could overcome oppression and alienation entailed the "dispersion of industrial activity" through small-scale industry, artisanal production, and craftsmanship.
+
+In today's tech economy, such a vision seems so close yet so far away. Tech workers have more flexibility than ever and much knowledge is free and open. Transformative companies can be built by a few people with laptops. At the same time, however, the sector has concentrated wealth to a degree never seen in history, and too many people find themselves in workplaces that leave them burnt out and cynical.
+
+By viewing the current industry in light of past industrial and labor movements and pushing back when possible, tech workers can help build workplaces and artifacts we can be proud of.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
