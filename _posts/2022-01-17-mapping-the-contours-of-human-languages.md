@@ -9,16 +9,18 @@ tags: linguistics geomatics
 	<img src="/assets/images/language-map.webp" width="800" height="300" alt="Map of languguages in US - ESRI" />
 </figure>
 
-<p>Published on <a href="https://gogeomatics.ca/mapping-the-contours-of-human-languages/" target="_blank">GoGeomatics</a>.</p>
+<i style="font-size:smaller;">Published on <a href="https://gogeomatics.ca/mapping-the-contours-of-human-languages/" target="_blank">GoGeomatics</a>.</i>
 
 <p>The geospatially-inclined might not typically think of linguistics as within their purview. However, approaching human language from a geographical perspective can be both practical and fascinating.</p>
 
 <p>The term geolinguistics refers to the use of maps in linguistic research. This might include the distribution, diversity, evolution, and dynamics of languages. Although the field has been of interest primarily to linguistic researchers, it opens up opportunities for the broader geospatial community to engage in original, interdisciplinary work.</p>
 
+<!--more-->
+
 ### Evolving with geospatial technology
 
 The concept of geolinguistics is not new. The field of linguistics has long been of interest to geographers. Likewise, spatial variation of language is an established topic of linguistic research. Rather than viewing geolinguistics as an entirely new field, we can consider how the study of language has co-evolved with cartography and GIS.
-<!--more-->
+
 An early example is Jules Gilliéron’s Atlas Linguistique de la France (1902-10) which mapped Romance dialects. In North America, the Linguistic Atlas of the Middle and South Atlantic States (LAMSAS) evolved from language mapping efforts beginning as early as the 1930s. The Ethnologue project has been active since 1951 and remains a vital source of geographic information for the world’s over 7,000 languages.
 
 Geolinguistic applications grew with Web 2.0 to add interactivity and data exploration. For instance, the Modern Language Association (MLA) Language Map uses ESRI’s ArcIMS to display the locations and numbers of speakers of languages commonly spoken in the US. 

@@ -9,10 +9,16 @@ tags: linguistics communication
 	<img src="/assets/images/silent-language.png" width="800" height="300" alt="Image source: book Silent Language" />
 </figure>
 
+<i style="font-size:smaller;">
+The following was prepared for: <a href="https://www.uma.pt/noticias/research-methods-in-linguistics-and-related-fields-across-domains-and-media/?contentid=104311" target="_blank">Research methods in Linguistics: Multidisciplinary approaches. University of Madeira, Portugal</a>
+</i>
+
 In the *Lebenswelt* of everyday communication, it is the combination of fluid verbal and nonverbal semiosis that creates meaning. While many insights can be gained from textual discourse analysis, the nuances and richness of human communication comes to the fore when it is an integrated whole that includes nonverbals. If phenomenological experience doesn’t lead one to this conclusion, it is also supported by quantitative studies suggesting two-thirds of human communication is nonverbal (Burgoon et al., 2016). 
 
-The importance of nonverbals is supported by research in cognitive sciences suggesting: 
 <!--more-->
+
+The importance of nonverbals is supported by research in cognitive sciences suggesting: 
+
 * Human cognition is mostly (some research has claimed 98%) unconscious and is inseparable from emotion. Moreover, cognition is embodied, meaning ideas, language, and even thought are mediated by the body (Lakoff, 2010). 
 * Human needs, emotions, and intentions are processed by the limbic brain. Nonverbal communication, in particular body language is, to a large extent, the expression of unconscious limbic processing (Lamendella, 1977). Gestures are expressions of embodied cognition (Kinsbourne, 2006).
 * In contrast to largely unconscious nonverbal communication, verbal language is more consciously driven and concentrated in the frontal lobe of the brain, which is responsible for thinking, planning, and judgment.

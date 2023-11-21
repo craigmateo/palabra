@@ -9,15 +9,15 @@ tags: linguistics communication
 	<img src="/assets/images/natresources_b.webp" width="800" height="300" alt="image from Smithsonian Institution" />
 </figure>
 
-<h6>Draft chapter for a forthcoming book</h6>
+<i style="font-size:smaller;">The following is a draft chapter for a forthcoming book.</i>
 
-### Introduction
+<p>The backdrop to a discussion of natural resources will be familiar to many readers in a business or policy audience. The global economy is fuelled by increasing amounts of finite resources. Trillions of dollars will need to be invested in the coming years to simply meet UN Development Goals (UNCTAD, 2014). The amount of minerals, ores, fossil fuels, and biomass consumed globally is projected to triple by 2050 (National Intelligence Council, 2013). </p>
 
-<p>The backdrop to a discussion of natural resources will be familiar to many readers in a business or policy audience. The global economy is fuelled by increasing amounts of finite resources. Trillions of dollars will need to be invested in the coming years to simply meet UN Development Goals (UNCTAD, 2014). The amount of minerals, ores, fossil fuels, and biomass consumed globally is projected to triple by 2050 (National Intelligence Council, 2013). Added to this are fiscal stimulus packages, climate targets, and associated green technology mandates projected to drive demand for strategic minerals (Jones, Elliott, &amp; Nguyen-Tien, 2020). At the time of writing (October 2021), food and energy inflation are at levels not seen in decades and supply chain disruptions are a reminder of the interconnectedness of the global material metabolism.</p>
-
-<p>This chapter draws attention to what is perhaps a less familiar dimension of resource economics. We'll consider how raw material—the most tangible of economic concepts—intersects with the more symbolic realms of human language and communication. 
+<p>Added to this are fiscal stimulus packages, climate targets, and associated green technology mandates projected to drive demand for strategic minerals (Jones, Elliott, &amp; Nguyen-Tien, 2020). At the time of writing (October 2021), food and energy inflation are at levels not seen in decades and supply chain disruptions are a reminder of the interconnectedness of the global material metabolism.</p>
 
 <!--more-->
+
+<p>This chapter draws attention to what is perhaps a less familiar dimension of resource economics. We'll consider how raw material—the most tangible of economic concepts—intersects with the more symbolic realms of human language and communication. 
 
 It is at this dichotomous intersection where the global economic engine is prone to run up against different interests, values, and conceptions how the system itself functions (or ought to). The consequence can be crises for businesses, households, and entire economies. Historically, state legal and executive apparatuses have acted to bring these crises to a resolution. Whether this has led to sustainable, just, and desirable outcomes is another discussion.</p>
 
