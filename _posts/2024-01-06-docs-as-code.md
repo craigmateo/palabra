@@ -11,7 +11,7 @@ tags: api-documentation docs-as-code
 
 With the range of software documentation tools available it's difficult to know where to start. 
 
-As part of a course, I recently compared available documentation tools to determine which are best suited for a project I've been working on. What follows is a summary drawing from my own practical experience working as a technical writer while considering perspectives of others working in the field.
+I recently compared available documentation tools to determine which are best suited for a project I've been working on. What follows is a summary drawing from my own practical experience working as a technical writer while considering perspectives of others working in the field.
 
 <!--more-->
 
@@ -58,7 +58,7 @@ conducting a feasibility trial consisting of the following steps:
 
 1. Reading the website to determine background information, technical overview, and available resources.
 2. Downloading/developing a starter repository that includes all the minimum requirements: internationalization, code samples in various languages, version control, and OpenAPI specifications.
-3. Adding markdown content and custom styling. During the process, a qualitative assessment was conducted (using note taking), outlining what went well, challenges, and roadblocks. Table 1 below provides a summary of the tools with advantages and disadvantages of each.
+3. Adding markdown content and custom styling. During the process, a qualitative assessment was conducted (using note taking), outlining what went well, challenges, and roadblocks. The table below provides a summary of the tools with advantages and disadvantages of each.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
