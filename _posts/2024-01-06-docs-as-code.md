@@ -61,7 +61,7 @@ conducting a feasibility trial consisting of the following steps:
 3. Adding markdown content and custom styling. During the process, a qualitative assessment was conducted (using note taking), outlining what went well, challenges, and roadblocks. The table below provides a summary of the tools with advantages and disadvantages of each.
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
+.tg  {border-collapse:collapse;border-spacing:0;width:100%;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-size:14px;
@@ -79,65 +79,56 @@ conducting a feasibility trial consisting of the following steps:
     <th class="tg-uzvj">Description</th>
     <th class="tg-uzvj">Advantages</th>
     <th class="tg-uzvj">Disadvantages</th>
-    <th class="tg-uzvj">Live Example</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-jgcz">Markdoc</td>
+    <td class="tg-jgcz"><a target="_blank" href="https://stripe.com/docs"><span style="color:var(--main-color)">Markdoc</span></a></td>
     <td class="tg-jgcz">Open sourced by Stripe in<br>2022. Integration with<br>framework of choice: Next.js,<br>React</td>
     <td class="tg-jgcz">- Newly released and widely used<br>- Extensible and customizable</td>
     <td class="tg-jgcz">- Set up and default starter<br>repos not as straightforward as other<br>tools</td>
-    <td class="tg-0mtp"><a target="_blank" href="https://stripe.com/docs"><span style="color:var(--main-color)">stripe.com/docs</span></a></td>
   </tr>
   <tr>
-    <td class="tg-jgcz">Docusaurus</td>
+    <td class="tg-jgcz"><a target="_blank" href="https://reactnative.dev/"><span style="color:var(--main-color)">Docusaurus</span></a></td>
     <td class="tg-jgcz">Open sourced by Facebook in<br>2017. MDX based. React +<br>Node static site generator.<br>Angolia for search and<br>Crowdin for translations.<br>Versioning support.</td>
     <td class="tg-jgcz">- Quick setup: starter templates /<br>easy to get started<br>- Regular product releases<br>- Widely used<br>- Lots of features &amp; plugins<br>available</td>
     <td class="tg-jgcz">- Limited to React<br>- No built in feedback<br>component<br>- Plugin integration not<br>always straightforward</td>
-    <td class="tg-0mtp"><a target="_blank" href="https://reactnative.dev/"><span style="color:var(--main-color)">reactnative.dev</span></a></td>
   </tr>
   <tr>
-    <td class="tg-jgcz">Nuxt Content</td>
+    <td class="tg-jgcz"><a target="_blank" href="https://nuxtdoc.js.org/"><span style="color:var(--main-color)">Nuxt Content</span></a></td>
     <td class="tg-jgcz">Module that provides a<br>file-based layer to Nuxt stack.<br>Based on Vue components</td>
     <td class="tg-jgcz">- Widely used; built/maintained by<br>Nuxt Core team</td>
     <td class="tg-jgcz">- Setup not as quick as<br>Docusaurus</td>
-    <td class="tg-0mtp"><a target="_blank" href="https://nuxtdoc.js.org/"><span style="color:var(--main-color)">nuxtdoc.js.org</span></a></td>
   </tr>
   <tr>
-    <td class="tg-jgcz">Netra</td>
+    <td class="tg-jgcz"><a target="_blank" href="https://turbo.build/repo/docs"><span style="color:var(--main-color)">Nextra</span></a></td>
     <td class="tg-jgcz">From Next.js creators in 2020.<br>Based on MDX.</td>
     <td class="tg-jgcz">- Syntax highlighting, i18n creation,<br>out-of-the-box text search</td>
     <td class="tg-jgcz">- Less featured than some<br>others (e.g., Docusaurus)</td>
-    <td class="tg-0mtp"><a target="_blank" href="https://turbo.build/repo/docs"><span style="color:var(--main-color)">turbo.build/repo/docs</span></a></td>
   </tr>
   <tr>
-    <td class="tg-jgcz">VuePress</td>
+    <td class="tg-jgcz"><a target="_blank" href="https://v2.vuepress.vuejs.org/guide/getting-started.html"><span style="color:var(--main-color)">VuePress</span></a></td>
     <td class="tg-jgcz">Vue-powered static site<br>generator.</td>
     <td class="tg-jgcz">- Default theme for quick setup<br>- Ability to use Vue inside md files<br>(for dynamic content)</td>
     <td class="tg-jgcz">- Not updated as often asthose from larger orgs<br>(Markdoc, Docusaurus)</td>
-    <td class="tg-0mtp"><a target="_blank" href="https://v2.vuepress.vuejs.org/guide/getting-started.html"><span style="color:var(--main-color)">v2.vuepress.vuejs.org</span></a></td>
   </tr>
   <tr>
-    <td class="tg-jgcz">MkDocs</td>
+    <td class="tg-jgcz"><a target="_blank" href="https://squidfunk.github.io/mkdocs-material/getting-started/"><span style="color:var(--main-color)">MkDocs</span></a></td>
     <td class="tg-jgcz">Popular Python SSG. YAML<br>file configuration.</td>
     <td class="tg-jgcz">- Available themes for quick setup<br>- Easy to customize</td>
     <td class="tg-jgcz">- Not a SPA</td>
-    <td class="tg-0mtp"><a target="_blank" href="https://squidfunk.github.io/mkdocs-material/getting-started/"><span style="color:var(--main-color)">squidfunk.github.io</span></a></td>
   </tr>
   <tr>
-    <td class="tg-jgcz">Docsify</td>
+    <td class="tg-jgcz"><a target="_blank" href="https://docsify.js.org/#/"><span style="color:var(--main-color)">Docsify</span></a></td>
     <td class="tg-jgcz">Vue compatible SSG</td>
     <td class="tg-jgcz">- Lightweight<br>- Plugins</td>
     <td class="tg-jgcz">- Not a SPA<br>- Templates / themes are<br>minimal</td>
-    <td class="tg-0mtp"><a target="_blank" href="https://docsify.js.org/#/"><span style="color:var(--main-color)">docsify.js.org</span></a></td>
   </tr>
   <tr>
-    <td class="tg-jgcz">Gitbook</td>
+    <td class="tg-jgcz"><a target="_blank" href="https://docs.gitbook.com/"><span style="color:var(--main-color)">Gitbook</span></a></td>
     <td class="tg-jgcz">Documentation platform</td>
     <td class="tg-jgcz">- Widely used<br>- PDF support<br>- Rich Plugin system<br>- Content editor for authoring</td>
     <td class="tg-jgcz">- Shifting from open source<br>to product<br>- Only free for open-source<br>teams</td>
-    <td class="tg-0mtp"><a target="_blank" href="https://docs.gitbook.com/"><span style="color:var(--main-color)">docs.gitbook.com</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -201,9 +192,9 @@ Based on the rating, Docusaurus and Nuxt Content were deemed the best suited. Th
 
 ## Conclusion
 
-Organizations often struggle finding the right tool for their documentation. This feasibility report assessed eight different tools to be used in a docs-as-code workflow for a SaaS company. Each tool was tested against the minimum requirements and the advantages/disadvantages of each was noted. A rating of 0-4 was assigned to each. Two tools, Docusaurus and Nuxt Content came out with the highest ratings.
+Organizations often struggle finding the right tool for their documentation. I assessed eight different tools to be used in a docs-as-code workflow for a SaaS company. Each tool was tested against the minimum requirements and the advantages/disadvantages of each were noted. A rating of 0-4 was assigned to each. Two tools, Docusaurus and Nuxt Content came out with the highest ratings.
 
-For the given context Docusaurus is recommended as a documentation tool. Docusaurus offers easy set up and is based on React, which is used by the team. As a maintained, open source framework, Docusaurus also offers updates and resources.
+For the given context Docusaurus is recommended as a documentation tool. Docusaurus offers easy set up and is based on React, which is widely used. As a maintained, open source framework, Docusaurus also offers updates and resources.
 
 ## References
 
