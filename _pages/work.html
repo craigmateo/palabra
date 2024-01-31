@@ -11,10 +11,31 @@ permalink: /work/
         {% assign sortedProjects = site.projects | sort: 'creationDate' | reverse %}
         {% for project in sortedProjects %}
             <div class="project">
-                <a class="project-cover" href="{{project.url | absolute_url}}"><img src="{{project.cover | absolute_url}}" alt="{{project.name}}" width="600" height="450" /></a>
+                <a class="project-cover" href="{{project.url | absolute_url}}">
+                <div class="overlay">    
+                    <img src="{{project.cover | absolute_url}}" alt="{{project.name}}" width="600" height="450" /></a>
+                </div>
                 <h2 class="project-title"><a href="{{project.url | absolute_url}}">{{project.name}}</a></h2>
                 <span class="project-category">{{project.category}}</span>
             </div>
         {% endfor %}
     </ul>
 </section>
+
+
+<style>
+
+.overlay {
+    background: radial-gradient(ellipse farthest-corner at 45px 45px, #0b8181 0%, rgba(80, 80, 80, 0.2) );
+}
+
+.project-cover img {
+    opacity: 0.25;
+}
+
+.project-cover img:hover {
+    opacity: 1.0;
+}
+
+
+</style>
