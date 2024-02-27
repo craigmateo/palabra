@@ -141,7 +141,6 @@ Each tool was given a rating from 0-4 based on criteria which included the follo
 - Tech stack that is a fit for internal tech teams.
 - Features and plugins.
 - Ease of use and setup.
-- Whether it's a maintained project in relatively wide use.
 
 One additional requirement is that the tooling is maintained as an ongoing project that is widely used in the industry. A maintained, widely adopted project allows for technical support, sharing best practices, and regular updates.
 
