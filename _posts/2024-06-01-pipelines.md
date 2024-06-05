@@ -43,9 +43,9 @@ a code, text, speaker, and group as follows:
 Analysis was based on Tenbrink's (2020) three aspects of CODA analysis: (i) Cognitive orientation; (ii) Cognitive depth; and (iii) Cognitive constructiveness. Here, we'll briefly look at the following elements of the analysis: 
 
 - <b>Themes</b> the speakers were concerned with.
-- <b>Identities</b> the speakers used or were constructed.
+- <b>Identities</b> speakers used to refer to themselves or other groups.
 - <b>Geographic Scale</b>, or whether the speakers saw these pipelines in a local, national, or global context.
-- <b>Metaphors</b> that speakers used.
+- <b>Metaphors</b> that speakers used in reference to the pipeline.
 
 ### Themes
 

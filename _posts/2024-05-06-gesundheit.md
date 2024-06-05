@@ -42,3 +42,39 @@ Um die Diskussion im Kontext der Weltsystemtheorie zu verstehen, können wir die
 Was wir jedoch für die vorliegende Diskussion hervorheben können, ist eine besonders schädliche Anomie (Zusammenbruch der sozialen Bindungen zwischen einem Individuum und der Gemeinschaft), die sich in postindustriellen Regionen etabliert hat. Das Erbe der Deindustrialisierung hat zu Brüchen geführt, die zu materieller Entbehrung, Hoffnungslosigkeit, erhöhter Arbeitsbelastung, Auflösung der Gemeinschaft und Entfremdung führen (Scheiring & King 2022). Der Begriff "Deaths of Despair'' [Tod aus Verzweiflung] charakterisiert den Schmerz, der Gemeinschaften wie dem Rust Belt in Nordamerika zugefügt wurde. Anstelle von produktiven Arbeitsplätzen, die Infrastruktur aufbauen und den Lebensstandard erhöhen, haben die Billionen von Geld, die seit der Krise von 2008 gedruckt wurden, eine Orgie der Spekulation und des technofeudalen Unsinns geschaffen. Unterdessen überschwemmen das Beratungsunternehmen McKinsey und Big Pharma Arbeiter:innenviertel in Nordamerika mit Opioiden, um von der Verzweiflung zu profitieren. Mittlerweile spiegelt der Begriff "Bullshit Jobs'' die Realität wider, dass ein Großteil der Arbeit in postindustriellen Ökonomien heutzutage völliger Unsinn ist, der sich psychologisch zerstörerisch auf die Arbeiter:innen auswirkt.
 
 Was wir in den Kernen globaler Finanzwirtschaften finden, könnte man als tragikomische, burleske Wirtschaft bezeichnen. Kurz gesagt: Neoliberalismus und Finanzkapital haben die produktive Wirtschaft ins Ausland verlagert und  die Arbeiterklasse in den Kernländern mit einem System aus schuldengetriebenem Militarismus und Konsumismus zurückgelassen. Unterdessen werden die Köpfe der arbeitenden Menschen mit Müll aus der Kulturindustrie und den Monopolen der sozialen Medien überschwemmt. Die Auswirkungen auf das Bewusstsein und die Identität der Bevölkerung sind zweifellos entscheidend für das Verständnis der Gesundheitssituation, die wir heute beobachten. Die Tatsache, dass der Anstieg psychischer Gesundheitsprobleme und Biopharmazeutika mit dieser Offshoring-Zeit zusammenfällt, ist kein Zufall. Allerdings könnte die Verknüpfung der Krise der psychischen Gesundheit am Arbeitsplatz mit diesem wirtschaftlichen Kontext eine starke Kraft für Veränderungen sein.
+
+## Referenzen
+
+EU, ‘Eurobarometer’, Eurobarometer: Mental Health. 2023. [<a href="https://europa.eu/eurobarometer/surveys/detail/3032" target="_blank">Online</a>].
+
+Tagesschau, ‘Mehr Krankheitstage wegen psychischer Probleme’, Tagesschau. 2023. Accessed: Apr. 12, 2024. [<a href="https://www.tagesschau.de/inland/gesellschaft/krankheitstage-psychische-erkrankungen-100.html" target="_blank">Online</a>].
+
+Duboust, ‘The mental health of workers in Europe is worsening. People in this country suffer the most’, Euro News. 2024. [<a href="https://www.euronews.com/next/2024/01/03/the-mental-health-of-workers-in-europe-is-on-the-decline-people-in-this-country-suffer-the" target="_blank">Online</a>]. 
+
+Office of the Surgeon General, ‘Workplace Mental Health & Well-Being’, The U.S. Surgeon General’s Framework for Workplace Mental Health & Well-Being. 2022. [<a href="https://www.hhs.gov/sites/default/files/workplace-mental-health-well-being.pdf" target="_blank">Online</a>].
+
+American Psychological Association, ‘2023 Work in America Survey’, APA. 2023. [<a href="https://www.apa.org/pubs/reports/work-in-america/2023-workplace-health-well-being" target="_blank">Online</a>]. 
+
+Mind Share Partners, ‘Workplace mental health is at a catalytic point in time—the stakes have been raised’, 2021 Mental Health at Work Report. 2021. [<a href="https://www.mindsharepartners.org/mentalhealthatworkreport-2021" target="_blank">Online</a>].
+
+Davies, Sedated: How Modern Capitalism Created Our Mental Health Crisis. London: Atlantic Books, 2021.
+
+Foucault, Madness and Civilisation. New York: Random House, 1965.
+
+Engels, ‘The Condition of the Working Class in England’, Marx/Engels Internet Archive. 1845. [<a href="https://www.marxists.org/archive/marx/works/1845/condition-working-class/index.htm" target="_blank">Online</a>].
+
+Eisenberg-Guyot and S. J. Prins, ‘The impact of capitalism on mental health: An epidemiological perspective’, Oxford Textbook of Social Psychiatry. Oxford University Press, p. 0, Aug. 2022. doi: 10.1093/med/9780198861478.003.0022.
+
+Moncrieff, ‘The Political Economy of the Mental Health System: A Marxist Analysis’, Front. Sociol., vol. 6, no. January, pp. 1–11, 2022, doi: 10.3389/fsoc.2021.771875.
+
+Harrington, Mind Fixers: Psychiatry’s Troubled Search for the Biology of Mental Illness. New York: WW Norton & Co, 2019.
+
+Anonym, ‘Marxistische Psychologie’, Kommunism. Z. Für Den Klassenkampf, no. 22, 2022.
+
+Scheiring and L. King, ‘Deindustrialization, social disintegration, and health: a neoclassical sociological approach’, Theory Soc., vol. 52, pp. 145–178, 2023.
+
+Case and Deaton, Deaths of Despair and the Future of Capitalism. Princeton: Princeton University Press, 2020.
+
+Graeber, Bullshit Jobs. New York: Simon & Schuster, 2018.
+
+
