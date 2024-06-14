@@ -2,14 +2,14 @@
 author: craig
 title: "Analysis of Quotations in Pipeline Protests"
 category: communication
-tags: communication
+tags: communication environment linguistics
 ---
 
 <figure class="aligncenter">
 	<img src="/assets/images/pipeline-protests.jpg" width="800" height="300" alt="Wet'suwet'en solidarity action in Toronto on February 8, 2020. (Photo by Jason Hargrove) from canadianmennonite.org" />
 </figure>
 
-<i>Presentation at Media And Challenges of Modern Society, University of Niš, Serbia</i>
+<i>Presentation at Media and Challenges of Modern Society, University of Niš, Serbia</i>
 
 In August 2016, Sioux protesters chained themselves to heavy machinery to block the construction of the Dakota Access Pipeline (DAP). In the months that followed, people from across the United States and worldwide saw protesters stand off against militarized police forces and the National Guard. In 2019 and 2020, the Royal Canadian Mounted Police (RCMP) raided protest camps blocking construction of the Coastal GasLink Pipeline (CGP) crossing Wet’suwet’en First Nation territory in British Columbia. 
 
@@ -37,6 +37,8 @@ Quotes from proponents (i.e., quotes made in the context of advocating for the p
 a code, text, speaker, and group as follows:
 
 <img src="/assets/images/quotes1.jpg" alt="">
+
+Raw data is available on <a href="https://github.com/craigmateo/pipeline-corpus" target="_blank">GitHub</a>.
 
 ## Analysis
 

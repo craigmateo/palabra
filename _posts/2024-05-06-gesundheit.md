@@ -2,7 +2,7 @@
 author: craig
 title: "Die kapitalistischen Wurzeln der psychischen Gesundheitskrise"
 category: policy
-tags: policy
+tags: policy economics health
 ---
 
 <figure class="aligncenter">
@@ -37,7 +37,7 @@ Doch anstatt vage auf den Kapitalismus als Ursache des Problems hinzuweisen, wä
 
 ## Gebrochene Geister des “Postindustrialismus”
 
-Um die Diskussion im Kontext der Weltsystemtheorie zu verstehen, können wir die Situation in “postindustriellen” Regionen betrachten. Natürlich ist der Begriff “postindustriell” irreführend, da die Industrie ins Ausland verlagert wurde.  Eine häufige Widerlegung könnte sein, dass die wirtschaftliche Lage schon immer eine Quelle von Stress gewesen sei, aber insgesamt sei das materielle Wohlergehen heute besser als je zuvor . Natürlich gibt es bei einem solchen Argument aus materiellen Gründen viele Probleme, aber wir können auch die sozialen und psychologischen Auswirkungen von Offshoring und Finanzialisierung berücksichtigen.
+Um die Diskussion im Kontext der Weltsystemtheorie zu verstehen, können wir die Situation in “postindustriellen” Regionen betrachten. Natürlich ist der Begriff “postindustriell” irreführend, da die Industrie ins Ausland verlagert wurde.  Eine häufige Widerlegung könnte sein, dass die wirtschaftliche Lage schon immer eine Quelle von Stress gewesen sei, aber insgesamt sei das materielle Wohlergehen heute besser als je zuvor. Natürlich gibt es bei einem solchen Argument aus materiellen Gründen viele Probleme, aber wir können auch die sozialen und psychologischen Auswirkungen von Offshoring und Finanzialisierung berücksichtigen.
 
 Was wir jedoch für die vorliegende Diskussion hervorheben können, ist eine besonders schädliche Anomie (Zusammenbruch der sozialen Bindungen zwischen einem Individuum und der Gemeinschaft), die sich in postindustriellen Regionen etabliert hat. Das Erbe der Deindustrialisierung hat zu Brüchen geführt, die zu materieller Entbehrung, Hoffnungslosigkeit, erhöhter Arbeitsbelastung, Auflösung der Gemeinschaft und Entfremdung führen (Scheiring & King 2022). Der Begriff "Deaths of Despair'' [Tod aus Verzweiflung] charakterisiert den Schmerz, der Gemeinschaften wie dem Rust Belt in Nordamerika zugefügt wurde. Anstelle von produktiven Arbeitsplätzen, die Infrastruktur aufbauen und den Lebensstandard erhöhen, haben die Billionen von Geld, die seit der Krise von 2008 gedruckt wurden, eine Orgie der Spekulation und des technofeudalen Unsinns geschaffen. Unterdessen überschwemmen das Beratungsunternehmen McKinsey und Big Pharma Arbeiter:innenviertel in Nordamerika mit Opioiden, um von der Verzweiflung zu profitieren. Mittlerweile spiegelt der Begriff "Bullshit Jobs'' die Realität wider, dass ein Großteil der Arbeit in postindustriellen Ökonomien heutzutage völliger Unsinn ist, der sich psychologisch zerstörerisch auf die Arbeiter:innen auswirkt.
 
