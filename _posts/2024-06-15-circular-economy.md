@@ -9,19 +9,24 @@ tags: circular-economy policy environment
 	<img src="/assets/images/waste-land.png" width="800" height="300" alt="image from 2010 film Waste Land" />
 </figure>
 
-The following is a personal account of engagements in spaces that can be broadly termed 'circular economy' (CE) over nearly two decades. The thesis is that while there are merits to the idea, circular economy as it has emerged from boardrooms and academic/policy thought leaders deserves critical examination.
+The following is a personal account of engagements in spaces that can be broadly termed 'circular economy' (CE) over nearly two decades. The thesis is that while there may be merits to the idea, circular economy as it has emerged in Europe deserves critical examination.
 
-At a time of growing <a href="https://fortune.com/europe/2024/02/22/anti-esg-backlash-america-europe-waters-down-sustainability-agenda-environment-politics/" target="_blank">backlash</a> to sustainability agendas and mounting pressures on working people, CE thought leaders are jeopardizing the potential of the concept.
+At a time of growing <a href="https://fortune.com/europe/2024/02/22/anti-esg-backlash-america-europe-waters-down-sustainability-agenda-environment-politics/" target="_blank">backlash</a> to sustainability agendas and mounting economic pressures on working people, the careerism and Davos elitism of CE thought leaders jeopardize the credibility of the concept.
 
 <!--more-->
+
+### Audio version of text
+
+<iframe width="100%" height="240px" src="https://www.youtube.com/embed/0MLKAkg_GRY?si=ZlYBj1FeUqbZ7pn2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Background: Circular Economy
 
 Circular economy (CE) proposes a change in the linear 'take-make-dispose' paradigm. The vision is a regenerative industrial system that includes circular material flows, renewable energy, and elimination of toxic chemicals.
 
-The concept gained momentum in late 1970s (EMAF, 2013), but knowledge production really began to explode in the last decade. Scientific publications per year with the keyword "circular economy" went from less than 100 prior to 2016 to nearly 2000 by the year 2020 (Maksymiv et al., 2021). This concept has been adopted in public policy the European Union (European Commission, 2020) and has been integrated into the official national development strategy of China (Geng et al., 2012).
+The concept gained momentum in the late 1970s (EMAF, 2013), but knowledge production really began to explode in the last decade. Scientific publications per year with the keyword "circular economy" went from less than 100 prior to 2016 to nearly 2000 by the year 2020 (Maksymiv et al., 2021). This concept has been adopted in public policy by the European Union (European Commission, 2020) and has been integrated into the official national development strategy of China (Geng et al., 2012).
 
-The explicit drivers behind CE discourses are familiar to readers. These include population growth, severe anthropological and environmental impacts, scarcity of raw materials (Arruda et al., 2021). What seems an uncontroversial concept has drawn critiques.
+The explicit drivers behind CE discourses are familiar to readers. These include population growth, severe anthropological and environmental impacts, scarcity of raw materials (Arruda et al., 2021). What seems an uncontroversial concept has drawn criticism.
 
 <figure class="center" style="margin-top: 2rem;margin-bottom:2rem;">
 	<img src="/assets/images/ce-davos.jpg" width="400" alt="Chris Ratcliffe/Bloomberg via Getty Images" style="margin:auto;" />
@@ -50,29 +55,29 @@ One could argue that CE emerged in a Eurocentric bubble. Nutrient cycling was co
 
 What follows are some CE-related professional experiences (over nearly 2 decades) that made me a CE critic. In short, I’ve seen a few individuals and companies get consulting contracts, speaking fees, and PR from the concept, but did not see much practical change.
 
-In advance, I'll note that the purpose is not to dismiss CE alltogether. Workers and colleagues with whom I interacted were very capable people with positive intentions. CE aims to address real environmental and economic challengs. However, successful 'circular' projects would entail fair wages, healthy workplaces, and job security so such people could actually get the job done.
+In advance, I'll note that the purpose is not to dismiss CE altogether. Workers and colleagues with whom I interacted were very capable people with positive intentions. CE aims to address real environmental and economic challenges. However, successful 'circular' projects would entail fair wages, healthy workplaces, and job security so such people could actually get the job done.
 
 ### Experience in Europe (2007-2009) 
 
-My introduction to CE began around 2007 when I landed a position with Prof. Michael Braungart in Hamburg, Germany. Braungart had authored (through a ghostwriter) the bestselling book <em>Cradle to Cradle: Remaking the Way We Make Things</em> (McDonough & Braungart, 2002), ran an environmental consultancy and had a professorship at Leuphana University Lüneburg. At this time, I was (naively) energized by the notion that science and design could resolve planetary environmental issues while also reinvigorating the real economy through a “third industrial revolution.”
+My introduction to CE began around 2007 when I landed a position with Prof. Michael Braungart in Hamburg, Germany. Braungart had authored (through a ghostwriter) the bestselling book <em>Cradle to Cradle: Remaking the Way We Make Things</em> (McDonough & Braungart, 2002), ran an environmental consultancy and had a professorship at Leuphana University Lüneburg. At least for the first few months, I was (naively) energized by the notion that science and design could resolve planetary environmental issues while also reinvigorating the real economy through a “third industrial revolution.”
 
 <figure class="center" style="margin-top: 2rem;margin-bottom:2rem;">
 	<img src="/assets/images/cradle.jpg" width="300" alt="Cradle to Cradle" style="margin:auto;" />
   <figcaption style="text-align:center;">Cover of <em>Cradle to Cradle: Remaking the Way We Make Things</em> (McDonough & Braungart, 2002).</figcaption>
 </figure>
 
-Cradle to cradle occupied a unique space in the sustainability marketplace at the interface of popular environmentalism and industrial practice. Perhaps due to the popularity of <i>An Inconvenient Truth</i> (2006), by the time I arrived in Hamburg in 2007, corporate boards and c-suites were searching for a compatible environmentalism. Whereas co-author William McDonough had commercialized cradle-to-cradle in the US (see <a href="https://www.fastcompany.com/1042475/green-guru-gone-wrong-william-mcdonough" target="_blank">Sacks, 2008</a>), Braungart maintained the aura of the elusive German chemist in Europe. Braungart would command €5,000 for a 30-minute presentation, rattling off some random chemical equations to impress audiences and brandishing his radical credentials as a former Greenpeace activist.
+Cradle to cradle occupied a unique space in the sustainability marketplace at the interface of popular environmentalism and industrial practice. Perhaps due to the popularity of <i>An Inconvenient Truth</i> (2006), by the time I arrived in Hamburg in 2007, corporate boards and c-suites were searching for a compatible environmentalism. Whereas co-author William McDonough had commercialized cradle-to-cradle in the US (see <a href="https://www.fastcompany.com/1042475/green-guru-gone-wrong-william-mcdonough" target="_blank">Sacks, 2008</a>), Braungart maintained the aura of the elusive German chemist in Europe. Braungart would command €5,000 for a 30-minute presentation, rattling off some random chemical equations to impress audiences and brandishing his radical credentials as a former Greenpeace activist. Amid Braungart's globetrotting on the sustainability scene, details of implementing the vague vision for industrial clients were left to a small, contract staff in Hamburg.
 
 <figure class="center" style="margin-top: 2rem;margin-bottom:2rem;">
 	<img src="/assets/images/braungart.jpg" width="400" alt="Chris Ratcliffe/Bloomberg via Getty Images" style="margin:auto;" />
   <figcaption style="text-align:center;">Photo from dreso.com <a href="https://www.dreso.com/de/en/news/details/deutscher-nachhaltigkeitspreis-fuer-oeko-pionier-michael-braungart-1" target="_blank">German Sustainability Award for Eco-pioneer Michael Braungart</a>. Anna Bauer</figcaption>
 </figure>
+ 
+As cradle to cradle gained popularity in The Netherlands, I was assigned a relatively large project to implement the concept within a Dutch waste management conglomerate, Van Gansewinkel. It did not take long to realize that there was little substance behind Braungart's claims on the speaking circuit and that technical aspects of the project were undeliverable. For instance, Braungart once sent a colleague and I to a plastics recycling facility in the Czech Republic to show them how to remove the element antimony from recycled plastic, knowing full well we did not have a method to do this. 
 
-Amid Braungart's globetrotting and hobnobbing on the sustainability scene, details of implementing the vague vision for industrial clients were left to a small, contract staff in Hamburg. As cradle to cradle gained popularity in The Netherlands, I was assigned a relatively large project to implement the concept within a Dutch waste management conglomerate, Van Gansewinkel. It did not take long to realize that there was little substance behind Braungart's claims on the speaking circuit and that technical aspects of the project were undeliverable. For instance, Braungart once sent a colleague and I to a plastics recycling faclity in the Czech Republic to show them how to remove the element antimony from recycled plastic, knowing full well we did not have a method to do this. As a solution to the fact that the technical aspects of project were going to be a flop, I approached the project from a perspective of change management and how waste workers could play a central role in sustinable transitions. 
+As a solution to the fact that the technical aspects of the project were going to be a flop, I approached the project from a perspective of change management and how waste workers could play a central role in sustainable transitions. A year was spent travelling to locations and delivering workshops for waste workers throughout The Netherlands. After the year, we met the executive board for a project review. Board members were visibly aggravated that cradle to cradle did not yield more "practical" financial benefits for the company. 
 
-A year was spent travelling to locations and delivering workshops for waste workers throughout The Netherlands. After the year, we met the executive board for a project review. Board members (many of whom, according to public reports, received annual compensation in the seven figures) were visibly aggravated that cradle to cradle did not yield more "practical" financial benefits for company. 
-
-Positioned between a sustainability guru, a toxic/unsupportive workplace, and corporate interests with a task that I felt unable to deliver, I decided leave and returned to Canada in 2009. As punishment for leaving, Braungart withheld my pay for the project work completed. The waste company continued with cradle to cradle for a few years, before the owner (New York based private equity firm KKR) filed it for bankruptcy (Bucaccio, 2015). Braungart has continued collecting speaking fees, was granted a professorship at Erasmus University in Rotterdam, and eventually sold the shares in his consultancy to the German building and real estate company Drees & Sommer.
+Positioned between a sustainability guru, a toxic/unsupportive workplace, and corporate interests with a task that I felt unable to deliver, I decided to leave and returned to Canada in 2009. As punishment for leaving, Braungart withheld my pay for the project work completed. The waste company continued with cradle to cradle for a few years, before the owner (New York based private equity firm KKR) filed it for bankruptcy (Bucaccio, 2015). Braungart has continued collecting speaking fees, was granted a professorship at Erasmus University in Rotterdam, and eventually sold the shares in his consultancy to the German building and real estate company Drees & Sommer.
 
 ### Grassroots Movements (2009-2016)
 
@@ -85,16 +90,16 @@ This exposed me to knowledge dynamics between corporate, state, media, and civic
   <figcaption style="text-align:center;">Waste Management Inc. ad</figcaption>
 </figure>
 
-Around this time, I also began working more with NGOs in Central America. Work with farmers provided a view of agroecology as scientific discipline, agricultural practice, or political/social movement (Wezel et al., 2009). I saw how peasants and landless farmers in the global south "resist the logic and imperatives of their marginalisation,"" and overcome the "biophysical contradictions in capitalism" (Akram-Lodhi & Kay, 2010) to restore what are often marginal and resource-poor lands (Altieri, 1999). Accordingly, despite their marginalization, the rural poor maintain political agency within the “physical, chemical, or biological” metabolism (Heynen et al., 2006) and economic independence from oligopolistic agrochemical and seed markets (Kloppenburg 2004; Wainwright & Mercer 2009). 
+Around this time, I also began working more with NGOs in Central America. Work with farmers provided a view of agroecology as scientific discipline, agricultural practice, or political/social movement (Wezel et al., 2009). I saw how peasants and landless farmers in the global south "resist the logic and imperatives of their marginalisation," and overcome the "biophysical contradictions in capitalism" (Akram-Lodhi & Kay, 2010) to restore what are often marginal and resource-poor lands (Altieri, 1999). Accordingly, despite their marginalization, the rural poor maintain political agency within the “physical, chemical, or biological” metabolism (Heynen et al., 2006) and economic independence from oligopolistic agrochemical and seed markets (Kloppenburg 2004; Wainwright & Mercer 2009). 
 
-I thus came to view agroecology as part of a conscious praxis within the material metabolism in order to resist both industrial agriculture and associated land grabs (Altieri & Toledo, 2011) as well as the inequalities of urbanization (Davis, 2006) inherent to neoliberalism in the global south. This was a refreshing contrast to the green grifting encounted in Europe and North America. 
+I thus came to view agroecology as part of a conscious praxis within the material metabolism in order to resist both industrial agriculture and associated land grabs (Altieri & Toledo, 2011) as well as the inequalities of urbanization (Davis, 2006) inherent to neoliberalism in the global south. This was a refreshing contrast to the green grifting encountered in Europe and North America. 
 
 <figure class="center" style="margin-top: 2rem;margin-bottom:2rem;">
 	<img src="/assets/images/via-camp.png" width="400" alt="Chris Ratcliffe/Bloomberg via Getty Images" style="margin:auto;" />
   <figcaption style="text-align:center;">From <a href="https://viacampesina.org/en/peasant-agroecology-achieves-climate-justice-a-digital-tool-for-popular-education/" target="_blank">viacampesina.org</a>.</figcaption>
 </figure>
 
-During these years, a common theme in civic, professional, and academic engagements was the tension between, on the one hand, eco-modernist and techno-scientific discourses and, on the other, nuanced perspectives combining historical and political analysis. While I still saw mertits in circular economy, a critical lens was warranted to separate the wheat from the chaff. 
+During these years, a common theme in civic, professional, and academic engagements was the tension between, on the one hand, eco-modernist and techno-scientific discourses and, on the other, nuanced perspectives combining historical and political analysis. While I still saw merits in circular economy, a critical lens was warranted to separate the wheat from the chaff. 
 
 ### Recycling Robots (2020-2021)
 
@@ -105,11 +110,11 @@ Unable to maintain steady employment in the environmental/NGO spaces, I spent se
   <figcaption style="text-align:center;">Conestoga College SMART Centre.</figcaption>
 </figure>
 
-The job demands—overseeing a facility, implementing safety measures, commissioning robotics equipment, hiring, training, and supervising students, writing proposals, acquiring new projects from the private sector, and being the sole subject matter expert on complex automation design projects—were unrealistic. This, together with uncertain program funding and the program supervisor leaving, meant the role was terminated after the 1-year contract. 
+The job demands—overseeing a facility, implementing safety measures, commissioning robotics equipment, hiring, training, and supervising students, writing proposals, acquiring new projects from the private sector, and being a subject matter expert on complex automation design projects—were not sustainable for one person. This, together with uncertain program funding and the program supervisor leaving, meant the role was terminated after the 1-year contract. 
 
-Notable from this time was the lack of necessary on-the-job training, which Crowley & Hodson (2014) identify as a characteristic of the neoliberal workplace. It was not uncommon to have project Zoom meetings with multiple administrators and managers, none of whom were available when it came to the 'nuts and bolts' work of CAD drawings, machining parts, installing pneumatics, etc. needed to implement the "circular economy" projects. The first assigned project to recycle pandemic masks (a project which apparently Justin Trudeau himself was excited about) had me scrambing on weekends looking for makeshift parts and solutions in my dad's old drive shed because the facilities and resources at the workplace were inadequate.
+Notable from this time was the lack of necessary on-the-job training, which Crowley & Hodson (2014) identify as a characteristic of the neoliberal workplace. It was not uncommon to have project Zoom meetings with multiple administrators and managers, none of whom were available when it came to the 'nuts and bolts' work of CAD drawings, machining parts, installing pneumatics, etc. needed to implement the "circular economy" projects. The first assigned project to recycle pandemic masks (a project which apparently Justin Trudeau himself was excited about) had me scrambling on weekends looking for makeshift parts and solutions in my dad's old drive shed because processes and resources in the workplace were inadequate.
 
-Also, the exclusive emphasis on material recovery in the "fast-paced, results oriented" industry-driven research ethos (words of manager) precluded a more critical look at how responsibility discourses of large electronic corporations removes important parts of recycling realities from the discussion (Laser & Stowell, 2020). In short, even if technically 'successful,' it was questionalbe whether the benefits of these publicly-funded projects went beyond a handful of companies and business interests. 
+Also, the exclusive emphasis on material recovery in the "fast-paced, results oriented" industry-driven research ethos (words of manager) precluded a more critical look at how responsibility discourses of large electronic corporations removes important parts of recycling realities from the discussion (Laser & Stowell, 2020). In short, even if technically 'successful,' it was questionable whether the benefits of these publicly-funded projects went beyond a handful of companies and business interests. 
 
 <figure class="center" style="margin-top: 2rem;margin-bottom:2rem;">
 	<img src="/assets/images/daisy-apple.jpg" width="400" alt="Chris Ratcliffe/Bloomberg via Getty Images" style="margin:auto;" />
@@ -118,18 +123,18 @@ Also, the exclusive emphasis on material recovery in the "fast-paced, results or
 
 ## Conclusion
 
-The preceding account chronicles engagements in circular economy in various settings spanning nearly two decades. I've come to view circular economy discourse through the lens of the <b>political economy of knowledge production</b>. Namely, ideas gain currency in the public sphere and receive corporate/institutional funding because they are compatible to the interests of dominant economic actors. 
+In light of these experiences, I've come to view the rise of circular economy through the lens of the <b>political economy of knowledge production</b>. Namely, ideas gain currency in the public sphere and receive corporate/institutional funding because they are compatible to the interests of dominant economic actors. 
 
 In the 2010 paper <a href="https://www.cabidigitallibrary.org/doi/pdf/10.5555/20103307895" target="_blank">"Who killed rural sociology? A Case Study in the
 Political Economy of Knowledge Production"</a>, the sociologist William Friedland describes push and pull forces including research funds, discouragement from pursuing certain topics, and systems of social control that are embedded in institutional networks. In line with Friedland’s account of push/pull factors, my own experiences chronicle two highly technical, eco-modernist roles that I was “pulled” into as well as two civil society groups that I was “pushed” out of due to the lack of sustainable funding. Throughout, I would argue that knowledge and praxis of working people closest to actual material processes of ‘circularity’ and ‘waste’ was often discounted and marginalized. 
 
-It is not enough to say that CE projects lacked necessary funding, managerial, and technological skills. It was more pernicious. Gurus, executives, academics and other members of the processional managerial class (PMC) stayed hands-off in the background, reaping disproportionate financial benefits, PR, and notoriety while precarious workers were left to pick up the pieces. 
+It is not enough to say that CE projects lacked necessary funding, managerial, and technological skills. It was more pernicious. Gurus, executives, academics and other members of the professional managerial class (PMC) stayed hands-off in the background, reaping disproportionate financial benefits, PR, and notoriety while precarious workers were left to pick up the pieces in dysfunctional, often exploitative situations. 
 
 ### Solutions
 
-Of course, it's easier to critique than to offer solutions. Critiques of CE, particularly those coming from academia, perhaps fail to account for the trade offs and give-and-take of operating organizations and businesses. Also, the above observations are perhaps features of late-stage capitalism (or whatever we can call today's economic system) and not unique to CE.
+Of course, it's easier to critique than to offer solutions. Critiques of CE, particularly those coming from academia, perhaps fail to account for the trade-offs and give-and-take of operating organizations and businesses. Also, critical observations outlined above are perhaps features of late-stage capitalism (or whatever we can call today's economic system) and not unique to CE.
 
-A starting point is workplace governance and organizing for fair wages, meaningful work, and job security. Meanwhile, actors who profit and take advantage of others while preaching 'circularity' can be put in check so everyone else can get the work done.
+A starting point is workplace and community organizing for fair wages, meaningful work, and job security. Meanwhile, actors who profit and take advantage of others while preaching 'circularity' can be put in check so everyone else can get the work done.
 
 <!-- ### Push & pull factors
 
@@ -180,8 +185,6 @@ Hobson, K. (2020). ‘Small stories of closing loops’: social circularity and 
 Kloppenburg, J. R. (2004). First the seed the political economy of plant biotechnology. University of Wisconsin Press.
 
 Laser, S., & Stowell, A. (2020). Thinking like Apple’s recycling robots: Toward the activation of responsibility in a postenvironmentalist world. Ephemera, 20(4), 163–194.
-
-Lazarevic, D., & Valve, H. (2017). Narrating expectations for the circular economy: Towards a common and contested European transition. Energy Research & Social Science, 31, 60–69. <a href="https://doi.org/https://doi.org/10.1016/j.erss.2017.05.006" target="_blank">link</a>
 
 Lazarevic, D., & Valve, H. (2017). Narrating expectations for the circular economy: Towards a common and contested European transition. Energy Research & Social Science, 31, 60–69. <a href="https://doi.org/https://doi.org/10.1016/j.erss.2017.05.006" target="_blank">link</a>
 
