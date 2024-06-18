@@ -19,7 +19,6 @@ At a time of growing <a href="https://fortune.com/europe/2024/02/22/anti-esg-bac
 
 <iframe width="100%" height="240px" src="https://www.youtube.com/embed/0MLKAkg_GRY?si=ZlYBj1FeUqbZ7pn2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
 ## Background: Circular Economy
 
 Circular economy (CE) proposes a change in the linear 'take-make-dispose' paradigm. The vision is a regenerative industrial system that includes circular material flows, renewable energy, and elimination of toxic chemicals.

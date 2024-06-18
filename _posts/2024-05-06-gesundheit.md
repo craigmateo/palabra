@@ -15,6 +15,10 @@ In den “postindustriellen” Ländern herrscht eine Krise der psychischen Gesu
 
 <!--more-->
 
+### Audio von Text
+
+<iframe width="100%" height="240px" src="https://www.youtube.com/embed/VIFpwmAgPb8?si=ZOLTN6L-bJi-iVWx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Bürgerliche Eingeständnisse des Problems 
 
 Die Pandemie war ein Wendepunkt, an dem die Arbeiter:innenklasse – die bereits seit der letzten Finanzkrise verstärkten Angriffen ausgesetzt war – dezimiert wurde. Jetzt berichten bürgerliche Medien und Institutionen von einer zunehmenden psychischen Krise unter der arbeitenden Bevölkerung, ignorieren aber dabei diesen wirtschaftlichen Hintergrund. Die Eurobarometer-Umfrage 2023 ergab, dass 46 Prozent der Befragten im vergangenen Jahr mit emotionalen oder psychosozialen Problemen konfrontiert waren (EU 2023). In Deutschland ist die Zahl der Arbeitsunfähigkeitstage aufgrund psychischer Erkrankungen im vergangenen Jahr auf 132 Millionen Tage gestiegen, eine Zahl, die sich in den letzten 10 Jahren verdoppelt hat (Tagesshau 2023). Laut einer aktuellen europäischen Umfrage besteht für 38 Prozent der Arbeiter:innen ein hohes Risiko einer schlechten psychischen Gesundheit (Euro News 2024). 
