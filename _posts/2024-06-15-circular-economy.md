@@ -45,11 +45,6 @@ Some critics go further to position CE as a hegemonic agenda aligned to a techno
 
 One could argue that CE emerged in a Eurocentric bubble. Nutrient cycling was core to the livelihoods of peasant and Indigenous peoples before processes of industrial capitalism and colonialism usurped these practices. Accordingly, the narrative of leading CE NGO Ellen McArthur Foundation (2013) that CE's popularity "gained momentum" from a "small number of academics, thought-leaders, and businesses" within late 20th Century environmental discourses of the global north is problematic.
 
-<figure class="center" style="margin-top: 2rem;margin-bottom:2rem;">
-	<img src="/assets/images/summit.jpg" width="400" alt="Chris Ratcliffe/Bloomberg via Getty Images" style="margin:auto;" />
-  <figcaption style="text-align:center;">Ellen MacArthur Foundation summit.</figcaption>
-</figure>
-
 ## Personal Account: From believer to skeptic
 
 What follows are some CE-related professional experiences (over nearly 2 decades) that made me a CE critic. In short, I’ve seen a few individuals and companies get consulting contracts, speaking fees, and PR from the concept, but did not see much practical change.
@@ -61,16 +56,11 @@ In advance, I'll note that the purpose is not to dismiss CE altogether. Workers 
 My introduction to CE began around 2007 when I landed a position with Prof. Michael Braungart in Hamburg, Germany. Braungart had authored (through a ghostwriter) the bestselling book <em>Cradle to Cradle: Remaking the Way We Make Things</em> (McDonough & Braungart, 2002), ran an environmental consultancy and had a professorship at Leuphana University Lüneburg. At least for the first few months, I was (naively) energized by the notion that science and design could resolve planetary environmental issues while also reinvigorating the real economy through a “third industrial revolution.”
 
 <figure class="center" style="margin-top: 2rem;margin-bottom:2rem;">
-	<img src="/assets/images/cradle.jpg" width="300" alt="Cradle to Cradle" style="margin:auto;" />
+	<img src="/assets/images/cradle.jpg" width="200" alt="Cradle to Cradle" style="margin:auto;" />
   <figcaption style="text-align:center;">Cover of <em>Cradle to Cradle: Remaking the Way We Make Things</em> (McDonough & Braungart, 2002).</figcaption>
 </figure>
 
 Cradle to cradle occupied a unique space in the sustainability marketplace at the interface of popular environmentalism and industrial practice. Perhaps due to the popularity of <i>An Inconvenient Truth</i> (2006), by the time I arrived in Hamburg in 2007, corporate boards and c-suites were searching for a compatible environmentalism. Whereas co-author William McDonough had commercialized cradle-to-cradle in the US (see <a href="https://www.fastcompany.com/1042475/green-guru-gone-wrong-william-mcdonough" target="_blank">Sacks, 2008</a>), Braungart maintained the aura of the elusive German chemist in Europe. Braungart would command €5,000 for a 30-minute presentation, rattling off some random chemical equations to impress audiences and brandishing his radical credentials as a former Greenpeace activist. Amid Braungart's globetrotting on the sustainability scene, details of implementing the vague vision for industrial clients were left to a small, contract staff in Hamburg.
-
-<figure class="center" style="margin-top: 2rem;margin-bottom:2rem;">
-	<img src="/assets/images/braungart.jpg" width="400" alt="Chris Ratcliffe/Bloomberg via Getty Images" style="margin:auto;" />
-  <figcaption style="text-align:center;">Photo from dreso.com <a href="https://www.dreso.com/de/en/news/details/deutscher-nachhaltigkeitspreis-fuer-oeko-pionier-michael-braungart-1" target="_blank">German Sustainability Award for Eco-pioneer Michael Braungart</a>. Anna Bauer</figcaption>
-</figure>
  
 As cradle to cradle gained popularity in The Netherlands, I was assigned a relatively large project to implement the concept within a Dutch waste management conglomerate, Van Gansewinkel. It did not take long to realize that there was little substance behind Braungart's claims on the speaking circuit and that technical aspects of the project were undeliverable. For instance, Braungart once sent a colleague and I to a plastics recycling facility in the Czech Republic to show them how to remove the element antimony from recycled plastic, knowing full well we did not have a method to do this. 
 
@@ -94,8 +84,8 @@ Around this time, I also began working more with NGOs in Central America. Work w
 I thus came to view agroecology as part of a conscious praxis within the material metabolism in order to resist both industrial agriculture and associated land grabs (Altieri & Toledo, 2011) as well as the inequalities of urbanization (Davis, 2006) inherent to neoliberalism in the global south. This was a refreshing contrast to the green grifting encountered in Europe and North America. 
 
 <figure class="center" style="margin-top: 2rem;margin-bottom:2rem;">
-	<img src="/assets/images/via-camp.png" width="400" alt="Chris Ratcliffe/Bloomberg via Getty Images" style="margin:auto;" />
-  <figcaption style="text-align:center;">From <a href="https://viacampesina.org/en/peasant-agroecology-achieves-climate-justice-a-digital-tool-for-popular-education/" target="_blank">viacampesina.org</a>.</figcaption>
+	<img src="/assets/images/agroecology.jpg" width="400" alt="visiting agroecology project in El Salvador" style="margin:auto;" />
+  <figcaption style="text-align:center;">Agroecology project in El Salvador.</figcaption>
 </figure>
 
 During these years, a common theme in civic, professional, and academic engagements was the tension between, on the one hand, eco-modernist and techno-scientific discourses and, on the other, nuanced perspectives combining historical and political analysis. While I still saw merits in circular economy, a critical lens was warranted to separate the wheat from the chaff. 
@@ -134,14 +124,6 @@ It is not enough to say that CE projects lacked necessary funding, managerial, a
 Of course, it's easier to critique than to offer solutions. Critiques of CE, particularly those coming from academia, perhaps fail to account for the trade-offs and give-and-take of operating organizations and businesses. Also, critical observations outlined above are perhaps features of late-stage capitalism (or whatever we can call today's economic system) and not unique to CE.
 
 A starting point is workplace and community organizing for fair wages, meaningful work, and job security. Meanwhile, actors who profit and take advantage of others while preaching 'circularity' can be put in check so everyone else can get the work done.
-
-<!-- ### Push & pull factors
-
-With <em>Cradle to Cradle</em>, between the interests of a jet-setting sustainability guru and corporate executives, I failed to see a program that empowered workers. Observations were broadly consistent with critiques suggesting that CE fails to disrupt the capitalist status quo (Gregson et al., 2015; D. K. Hobson & Lynch, 2016) and depolitisizes policy and industry interventions (Niskanen et al., 2020). Also worthy of reflection are the socio-economic dynamics that “pulled” me to essentially promote the book sales and consulting business of a self-promoting guru professor in Europe. 
-
-Working with a civil society group fighting a landfill in Ontario, Canada showed a bias toward scientism and deference to ‘experts’ in ways that, arguably, rendered local perspectives and context invisible. The fact that a large corporation (Waste Management Inc.) stood to profit enormously was absent from a debate that got narrowed down to the statements of a handful hydrogeology experts. Here, knowledge production took place in consulting firms, government, and corporate bodies, while those with the most at stake were rendered "nobodied" actors (Wuyts & Marin, 2022). 
-
-Finally, observations of farmers practicing agroecology in Central America suggested that marginal actors have been cycling nutrients through agroecology long before circular economy rhetoric became popular in boardrooms, academia, and wine and cheese events. Involvement with these rural movements was more practical and consistent with my values and identity but, ultimately, not sustainable career wise. Consistent with Friedland’s (2010) observation, I was “pulled” away from non-profit community work and “pushed” towards a highly technical, eco-modernist enterprise of robotics for electronics recycling. But even this was not sustainable given funding agendas and the dynamics of neoliberal workplaces. -->
 
 ## References
 
