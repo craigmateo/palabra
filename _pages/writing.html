@@ -6,8 +6,20 @@ customPage: true
 permalink: /writing/
 ---
 
-<a class="icon" href="https://scholar.google.com/citations?user=5p03eWMAAAAJ&hl=en" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="30px" alt="Google scholar profile"/></a>
-<a class="icon" href="https://orcid.org/0000-0003-4397-2857" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="30px" alt="ORCID profile"/></a>
+<header>
+
+<h1>Writing</h1>
+
+<figure>
+	<img src="/assets/images/thinking.jpg" alt="Le Penseur (1904) in the Musée Rodin in Paris (Wikipedia)" />
+</figure>
+
+<icons>
+    <a class="icon" href="https://scholar.google.com/citations?user=5p03eWMAAAAJ&hl=en" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="25px" alt="Google scholar profile"/></a>
+    <a class="icon" href="https://orcid.org/0000-0003-4397-2857" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="25px" alt="ORCID profile"/></a>
+    </icons>
+
+<h3>Contents</h3>
 
 <ul id="top">
     <li><a href="#journal">Journal Articles</a></li>
@@ -17,9 +29,9 @@ permalink: /writing/
     <li><a href="#review">Reviews</a></li>
     <li><a href="#report">Reports</a></li>
     <li><a href="#manus">Manuscripts</a></li>
-    <li><a href="#oped">Op Eds/Essays</a></li>
-    
+    <li><a href="#oped">Op Eds/Essays</a></li>   
 </ul>   
+</header>
 
 <section class="page-writing">
 <h4 id="journal">Journal Articles</h4>
@@ -117,6 +129,23 @@ permalink: /writing/
 </section>
 
 <style>
+
+main {
+    max-width: 560px;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 2rem;
+}
+
+h4 {
+    margin-top: 3rem;
+}
+
 .link {
     margin-left: 5px;
     color: #0b8181;
@@ -125,7 +154,6 @@ permalink: /writing/
 
 .icon img {
     opacity: 50%;
-    float: right;
 }
 
 .icon img:hover {
@@ -136,6 +164,12 @@ ul {
   list-style-type: none; /* Remove bullets */
   padding: 0; /* Remove padding */
   margin: 0; /* Remove margins */
+  display: block;
+  margin-top: 2rem;
+}
+
+ul li {
+    margin-top: 0.7rem;
 }
 
 li a {
@@ -154,5 +188,22 @@ li a {
 
 .link:hover {
     font-size: 140%;
+}
+
+figure img {
+    width: 100%;
+    max-width: 300px;
+}
+
+@media only screen and (max-width: 600px) {
+  icons {
+    display: block;
+  }
+  .icon img {
+    opacity: 100%;
+}
+figure img {
+    max-width: fit-content;
+}
 }
 </style>
