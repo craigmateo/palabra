@@ -64,7 +64,7 @@ Acknowledging the problems inherent to the histories and societies these literat
 
 In rethinking relationships of humans and other species, we are also rethinking relationships to nature and technology. The meaning of posthumanism has often remained opaque. We have not yet fully recognized its potential for rethinking relationships of "human", "nature" and "technology" in ways that don't reproduce Cartesian dualism or elicit fear of techno-science. In thinking about my childhood and agrarian worlds, I was precisely concerned with avoiding idealization of nature or portraying posthumanism as something unattainable.
 
-My presentation closed with an emphasis that rethinking interspecies friendships and relationships in agrarian worlds reveals limits and possibilities of such relationships and raises new questions and possibilities. It also frames the posthuman condition as one of grappling with convergence, hybridity, and multiple perspectives. Finally, it serves to highlight relevance of this discussion to fields beyond anthropology or critical theory and to reveal how posthumanism can open new spaces in unexpected and successful ways.
+My presentation closed with an emphasis that rethinking interspecies friendships and relationships in agrarian worlds reveals limits and possibilities of such relationships and raises new questions and possibilities. It also frames the posthuman condition as one of grappling with convergence, hybridity, and multiple perspectives. Finally, it serves to highlight the relevance of this discussion to fields beyond anthropology or critical theory and to reveal how posthumanism can open new spaces in unexpected and successful ways.
 
 
 <figure class="center" style="margin-top: 2rem;margin-bottom:2rem;">
